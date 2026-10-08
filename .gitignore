@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large data files
+*.h5ad
+*.h5
+*.rds
+*.fastq
+*.fastq.gz
+*.bam
+
+# Scientific reference paper
+s41523-025-00808-w.pdf
+
+# Credentials
+.env
